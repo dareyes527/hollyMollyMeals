@@ -1,0 +1,11 @@
+C:\Users\WORLDPMO2\Source\Repos\HollyMollyMeals\HollyMollyMeals\bin\Debug\netcoreapp2.0\HollyMollyMeals.deps.json
+C:\Users\WORLDPMO2\Source\Repos\HollyMollyMeals\HollyMollyMeals\bin\Debug\netcoreapp2.0\HollyMollyMeals.runtimeconfig.json
+C:\Users\WORLDPMO2\Source\Repos\HollyMollyMeals\HollyMollyMeals\bin\Debug\netcoreapp2.0\HollyMollyMeals.runtimeconfig.dev.json
+C:\Users\WORLDPMO2\Source\Repos\HollyMollyMeals\HollyMollyMeals\bin\Debug\netcoreapp2.0\HollyMollyMeals.dll
+C:\Users\WORLDPMO2\Source\Repos\HollyMollyMeals\HollyMollyMeals\bin\Debug\netcoreapp2.0\HollyMollyMeals.pdb
+C:\Users\WORLDPMO2\Source\Repos\HollyMollyMeals\HollyMollyMeals\obj\Debug\netcoreapp2.0\HollyMollyMeals.csprojResolveAssemblyReference.cache
+C:\Users\WORLDPMO2\Source\Repos\HollyMollyMeals\HollyMollyMeals\obj\Debug\netcoreapp2.0\HollyMollyMeals.csproj.CoreCompileInputs.cache
+C:\Users\WORLDPMO2\Source\Repos\HollyMollyMeals\HollyMollyMeals\obj\Debug\netcoreapp2.0\HollyMollyMeals.AssemblyInfoInputs.cache
+C:\Users\WORLDPMO2\Source\Repos\HollyMollyMeals\HollyMollyMeals\obj\Debug\netcoreapp2.0\HollyMollyMeals.AssemblyInfo.cs
+C:\Users\WORLDPMO2\Source\Repos\HollyMollyMeals\HollyMollyMeals\obj\Debug\netcoreapp2.0\HollyMollyMeals.dll
+C:\Users\WORLDPMO2\Source\Repos\HollyMollyMeals\HollyMollyMeals\obj\Debug\netcoreapp2.0\HollyMollyMeals.pdb
